@@ -1,0 +1,3 @@
+Molecule: Oxytocin
+Image URL: https://upload.wikimedia.org/wikipedia/commons/5/55/Oxytocin_with_labels.png
+Description: Oxytocin is a peptide hormone and neuropeptide normally produced in the hypothalamus and released by the posterior pituitary.
